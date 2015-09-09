@@ -1,0 +1,16 @@
+{
+  "name": "test-react",
+  "version": "0.0.0",
+  "authors": [
+    "Inoue Shota <inoue@innova-jp.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
